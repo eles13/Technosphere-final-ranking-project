@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9acebbf-f7bd-4243-be8c-7a5ccd01f962" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1avvHwkSbYVvawuSmpdP4S9AA7V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.allq">
+    <configuration name="CTR" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CTR" />
+      <module name="ubr.main" />
+      <option name="PROGRAM_PARAMETERS" value="./part-m-000*" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DF" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DFExtractor" />
+      <module name="ubr.main" />
+      <option name="PROGRAM_PARAMETERS" value="./part-m-007* ./DF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QF" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="QFExtractor" />
+      <module name="ubr.main" />
+      <option name="PROGRAM_PARAMETERS" value="./part-m-007* ./QF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="all" />
+      <module name="ubr.main" />
+      <option name="PROGRAM_PARAMETERS" value="./part-m* ./DF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="allq" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="allq" />
+      <module name="ubr.main" />
+      <option name="PROGRAM_PARAMETERS" value="./part* ./qf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="allurl" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="allurl" />
+      <module name="ubr.main" />
+      <option name="PROGRAM_PARAMETERS" value="./part* ./UDDF" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubr.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/ubr.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$APPLICATION_HOME_DIR$/jbr" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DF" />
+      <item itemvalue="Application.CTR" />
+      <item itemvalue="Application.all" />
+      <item itemvalue="Application.allurl" />
+      <item itemvalue="Application.allq" />
+      <item itemvalue="Application.QF" />
+      <item itemvalue="JAR Application.ubr.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.ubr.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9acebbf-f7bd-4243-be8c-7a5ccd01f962" name="Default Changelist" comment="" />
+      <created>1587628797799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587628797799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="848" height="677" key="#Project_Structure" timestamp="1587628860620">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="848" height="677" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1587628860620" />
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589977379976">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589977379976" />
+    <state x="631" y="357" width="648" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589837501377">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="631" y="357" width="648" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1589837501377" />
+    <state x="768" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1589451889613">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1589451889613" />
+    <state x="692" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589977363888">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="692" y="338" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589977363888" />
+    <state x="693" y="301" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1589455708294">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="301" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1589455708294" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589406003607">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589406003607" />
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom" timestamp="1589985971719">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971719" />
+    <state width="1874" height="344" key="GridCell.Tab.0.center" timestamp="1589985971719">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971719" />
+    <state width="1874" height="344" key="GridCell.Tab.0.left" timestamp="1589985971719">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971719" />
+    <state width="1874" height="344" key="GridCell.Tab.0.right" timestamp="1589985971719">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971719" />
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom" timestamp="1589985971720">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971720" />
+    <state width="1874" height="344" key="GridCell.Tab.1.center" timestamp="1589985971720">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971720" />
+    <state width="1874" height="344" key="GridCell.Tab.1.left" timestamp="1589985971720">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971720" />
+    <state width="1874" height="344" key="GridCell.Tab.1.right" timestamp="1589985971720">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1589985971720" />
+    <state width="960" height="527" key="XDebugger.FullValuePopup" timestamp="1589755486291">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="527" key="XDebugger.FullValuePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1589755486291" />
+    <state x="732" y="332" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1587630682396">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="732" y="332" width="446" height="440" key="chooseDestDirectoryDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587630682396" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1592159913451">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1592159913451" />
+    <state x="515" y="240" width="880" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587768448620">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="515" y="240" width="880" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1587768448620" />
+    <state x="624" y="253" key="run.anything.popup" timestamp="1587827185733">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="253" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1587827185733" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589762497378">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1589762497378" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="t_qid" language="JAVA" />
+        <watch expression="qid_t" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ubr$QF.ic" NAME="QF Coverage Results" MODIFIED="1587812478926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

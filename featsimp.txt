@@ -1,0 +1,151 @@
+QA USE	3981
+texttfidf 3-7	2984
+passage titles window 3 stride 1	2360
+trained fasttext 10 iters	2314
+q num shows	1893
+doc2vec sim titles	1873
+tfidf 3-9 ngramm titles	1863
+dbn a	1749
+passage texts window 3 stride 1	1587
+passage texts window 7 stride 3	1389
+fasttext wikipedia	1275
+multilingual USE	1243
+qh ctr on pos 0	1224
+h mean showposinv	1199
+texttfidf 2-3	1182
+h mean showpos	1174
+tfidf 2-3 ngramm titles	1171
+h shows	1067
+h mean firstclicks	1019
+qh ctr on pos 1	1019
+q mean time between clicks	931
+q mean last click pos	903
+q mean first click pos	881
+dbn	851
+qh mean showposinv	804
+qu ctr on pos 0	781
+dbn s	762
+h mean lastshows	749
+h meantime	727
+h mean clisckposinv	725
+q mean time when hasclicks	630
+qh ctr on pos 2	606
+h mean clickpos	585
+h mean firstshows	557
+bm on texts words	556
+qh ctr on pos 8	538
+h mean time clicked before	482
+qu mean showposinv	467
+qu ctr on pos 1	464
+qu ctr on pos 2	464
+h clicks	455
+q mean clicks	455
+q mean links 	443
+qh mean showpos	440
+qh ctr on pos 5	431
+qh ctr on pos 3	399
+qh ctr on pos 7	374
+qh shows if has clicks on pos 0	363
+q mean clicks when hasclicks	359
+qh ctr on pos 6	353
+qh ctr on pos 4	351
+u mean showposinv	335
+qu ctr on pos 3	335
+qu shows	332
+qu shows on pos 9	329
+qu shows on pos 2	323
+q noclicks/shows	313
+qu mean showpos	311
+qh ctr on pos 9	305
+q noclicks	287
+u shows	282
+qu ctr on pos 4	267
+u mean showpos	263
+qu ctr on pos 5	239
+qh clicks	233
+qh shows	229
+qu ctr on pos 6	213
+qu shows if has clicks on pos 0	212
+qh mean firstshows	211
+qu ctr on pos 7	203
+u clicks	191
+qu shows on pos 1	186
+qu shows on pos 5	181
+qh mean firstclicks	180
+qh shows on pos 0	179
+qu shows on pos 0	173
+u mean firstclicks	170
+qu shows on pos 3	164
+qu shows on pos 6	163
+qu shows on pos 8	160
+qu shows on pos 7	158
+qu shows if has clicks on pos 2	155
+qu shows on pos 4	153
+qu shows if has clicks on pos 3	146
+qu shows if has clicks on pos 1	144
+qu shows if has clicks on pos 8	141
+qu shows if has clicks on pos 9	132
+qu clicks	122
+qu shows if has clicks on pos 7	120
+qu shows if has clicks on pos 4	119
+qh mean clickposinv	111
+qu mean firstshows	108
+qu ctr on pos 8	107
+qu shows if has clicks on pos 6	105
+qh shows if has clicks on pos 1	103
+qh mean lasthows	101
+qh shows on pos 7	101
+qh shows if has clicks on pos 8	101
+qh shows if has clicks on pos 9	101
+qh meantime	98
+qh shows if has clicks on pos 2	98
+u mean firstshows	98
+u mean clisckposinv	97
+qh shows on pos 1	94
+qh shows on pos 4	89
+u meantime	88
+qh shows on pos 5	86
+qu mean firstclicks	85
+qu shows if has clicks on pos 5	84
+qh shows on pos 9	83
+qh shows on pos 2	82
+q click on pos 0	79
+qh shows on pos 6	77
+qu meantime	76
+qh mean clickpos	72
+qh mean time clicked before	72
+qh shows if has clicks on pos 3	70
+qu mean clickposinv	66
+qh shows on pos 8	61
+u mean lastshows	61
+qh shows on pos 3	58
+qh shows if has clicks on pos 4	58
+qu ctr on pos 9	58
+qh shows if has clicks on pos 7	54
+u mean clickpos	54
+qu mean lasthows	51
+qu mean clickpos	45
+u mean time clicked before	44
+qh shows if has clicks on pos 5	43
+qh shows if has clicks on pos 6	40
+qu mean time clicked before	30
+h mean lastclicks	0
+h mean time clicked after	0
+qh mean lastclicks	0
+qh mean time clicked after	0
+u mean lastclicks	0
+u mean time clicked after	0
+qu mean lastclicks	0
+qu mean time clicked after	0
+q click on pos 1	0
+q click on pos 2	0
+q click on pos 3	0
+q click on pos 4	0
+q click on pos 5	0
+q click on pos 6	0
+q click on pos 7	0
+q click on pos 8	0
+q click on pos 9	0
+q oneclicks	0
+q oneclicks/shows	0
+q oneclicks/when hasclicks	0
